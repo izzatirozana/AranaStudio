@@ -1,0 +1,33 @@
+.page-home {
+  h5 {
+    font-weight: 300;
+    margin-bottom: 15px;
+  }
+
+  .section-arana-header {
+    .title-header {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 900;
+      font-size: 40px;
+      line-height: 100%;
+      color: #302a69;
+    }
+
+    .description-header {
+      margin-top: 22px;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      color: #404040;
+    }
+  }
+
+  .section-products {
+    margin-top: 160px;
+    background-color: #f6f9ff;
+
+    // .container-products {
+    //   background-color: #F6F9FF;
+    // }
+  }
+}
